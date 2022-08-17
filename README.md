@@ -20,7 +20,7 @@ Find the likelihood of a negative event and its outcomes
 - Potential Loss
 
 #### Examine
-Prioritize or rank the negative event based on the organization's objectives (Which risks need t ob addressed first)
+Prioritize the negative event based on the organization's objectives (Which risks need t ob addressed first)
 
 #### Treat
 Starting from high to low randed negative events, choose appropriate remediation measures to bring the risk down to a manageable level or avoid it (Dispatch the treatment plan)
